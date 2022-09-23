@@ -6,9 +6,8 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # PARTICULAR PURPOSE.
 
 # This program built for i386-pc-mingw32
- 
 
-# Make data base, printed on Tue Sep 20 09:48:24 2022
+# Make data base, printed on Fri Sep 23 10:43:34 2022
 
 # Variables
 
@@ -35,8 +34,7 @@ SHELL := sh.exe
 # environment
 WINDIR = C:\Windows
 # environment
-VSCODE_NLS_CONFIG = {"loc 
-ale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
 # environment
 ONEDRIVE = C:\Users\Dio\OneDrive
 # environment
@@ -80,7 +78,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_2960_WWEHCSLKEPWOQVVM
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1868_ISPOEVAFVLNRCKGE
 # environment
 COMPUTERNAME = LAPTOP-M5J0K3VR
 # environment
@@ -98,8 +96,7 @@ GOMODCACHE = D:\DEV\GOLANG\pkg\mod
 # environment
 VSCODE_CODE_CACHE_PATH = C:\Users\Dio\AppData\Roaming\Code\CachedData\74b1f979648cc44d385a2286793c226e611f59e7
 # environment
-APPLICATION_INSIGHTS_NO_DIAGN 
-OSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
@@ -140,8 +137,7 @@ OS = Windows_NT
 VSCODE_IPC_HOOK = \\.\pipe\463edc293d0c602ec08464a601541b8d-1.71.2-main-sock
 # environment
 HOMEPATH = \Users\Dio
-#  
-environment
+# environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
 PROMPT = $P$G
@@ -188,12 +184,11 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 2960
+VSCODE_PID = 1868
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-M5J0K3VR
 # variable set hash-table stats:
-# Load=88/1024=9%, Reh 
-ash=0, Collisions=10/108=9%
+# Load=88/1024=9%, Rehash=0, Collisions=10/108=9%
 
 # Pattern-specific Variable Values
 
@@ -205,35 +200,30 @@ ash=0, Collisions=10/108=9%
 # C:\xampp\php (key C:/xampp/php, mtime 1650516324): 63 files, no impossibilities.
 # C:\Program Files\heroku\bin (key C:/Program Files/heroku/bin, mtime 1656473785): 4 files, no impossibilities.
 # C:\Program Files\Docker\Docker\resources\bin (key C:/Program Files/Docker/Docker/resources/bin, mtime 1654509173): 13 files, no impossibilities.
-# C:\Users\Dio\scoop\shim 
-s (key C:/Users/Dio/scoop/shims, mtime 1658137548): 7 files, no impossibilities.
+# C:\Users\Dio\scoop\shims (key C:/Users/Dio/scoop/shims, mtime 1658137548): 7 files, no impossibilities.
 # C:\Program Files\Go\bin (key C:/Program Files/Go/bin, mtime 1632831660): 4 files, no impossibilities.
 # C:\Users\Dio\AppData\Local\Microsoft\WindowsApps (key C:/Users/Dio/AppData/Local/Microsoft/WindowsApps, mtime 1663481208): 13 files, no impossibilities.
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1617976353): 30 files, no impossibilities.
-# C:\Windows\System32\Wbem  
-(key C:/Windows/System32/Wbem, mtime 1657857064): 153 files, no impossibilities.
-# . (key d:/DEV/GOLANG/src/simple-bank, mtime 1663215498): 11 files, no impossibilities.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1657857064): 153 files, no impossibilities.
+# . (key d:/DEV/GOLANG/src/simple-bank, mtime 1663662789): 14 files, no impossibilities.
 # D:\DEV\GOLANG\bin (key D:/DEV/GOLANG/bin, mtime 1662683349): 15 files, no impossibilities.
 # C:\Users\Dio\go\bin: could not be stat'd.
 # C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1648096939): 13 files, no impossibilities.
 # C:\TDM-GCC-64\bin (key C:/TDM-GCC-64/bin, mtime 1660097332): 61 files, no impossibilities.
-# C:\ 
-Windows\System32\OpenSSH\: could not be stat'd.
+# C:\Windows\System32\OpenSSH\: could not be stat'd.
 # C:\ProgramData\ComposerSetup\bin (key C:/ProgramData/ComposerSetup/bin, mtime 1632825204): 5 files, no impossibilities.
 # C:\Windows (key C:/Windows, mtime 1663130602): 117 files, no impossibilities.
 # C:\Users\Dio\AppData\Local\Programs\Python\Python310\ (key C:/Users/Dio/AppData/Local/Programs/Python/Python310/, mtime 1656166166): 18 files, no impossibilities.
-# C:\Users\Dio\AppData\Local\Programs\Python\Python310\Scripts\ (key C:/Users/Dio/AppData/Local/P 
-rograms/Python/Python310/Scripts/, mtime 1656166166): 5 files, no impossibilities.
+# C:\Users\Dio\AppData\Local\Programs\Python\Python310\Scripts\ (key C:/Users/Dio/AppData/Local/Programs/Python/Python310/Scripts/, mtime 1656166166): 5 files, no impossibilities.
 # C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
 # C:\Users\Dio\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Dio/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1663295101): 4 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1632484199): 8 files, no impossibilities.
-# C:\Windows\system32 (key C:/Windows/system32, mtime 1663638937): 2808 files, no impo 
-ssibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1663894846): 2808 files, no impossibilities.
 # C:\Users\Dio\AppData\Roaming\npm (key C:/Users/Dio/AppData/Roaming/npm, mtime 1648604479): 6 files, no impossibilities.
 # C:\Users\Dio\AppData\Roaming\Composer\vendor\bin: could not be stat'd.
 # C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1660016319): 5 files, no impossibilities.
 
-# 3363 files, no impossibilities in 26 directories.
+# 3366 files, no impossibilities in 26 directories.
 
 # Implicit Rules
 
@@ -243,8 +233,7 @@ ssibilities.
 
 postgres:
 #  Phony target (prerequisite of .PHONY).
-#  Implicit rule sear 
-ch has not been done.
+#  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 2):
@@ -260,8 +249,7 @@ all:
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
-.PHONY: postgres createdb dropdb migrateup migratedo 
-wn sqlc test
+.PHONY: postgres createdb dropdb migrateup migratedown sqlc test server
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -281,9 +269,17 @@ sqlc:
 #  Modification time never checked.
 #  File has not been updated.
 
+server:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 23):
+	go run main.go
+	
+
 test:
-#  Phony target (prerequisite of  
-.PHONY).
+#  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
@@ -294,7 +290,7 @@ test:
 # Not a target:
 makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-09-07 16:31:31
+#  Last modified 2022-09-20 15:38:13
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -303,8 +299,7 @@ makefile:
 createdb:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
-# 
-  File does not exist.
+#  File does not exist.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 5):
 	docker exec -it postgres12 createdb --username=root --owner=root simple_bank
@@ -321,8 +316,7 @@ dropdb:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  commands to execute (from `makefile', lin 
-e 8):
+#  commands to execute (from `makefile', line 8):
 	docker exec -it postgres12 dropdb simple_bank
 	
 
@@ -339,14 +333,13 @@ migratedown:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
-#  File ha 
-s not been updated.
+#  File has not been updated.
 #  commands to execute (from `makefile', line 14):
 	migrate -path db/migration -database "postgresql://root:secret@localhost:5432/simple_bank?sslmode=disable" -verbose down
 	
 
 # files hash-table stats:
-# Load=12/1024=1%, Rehash=0, Collisions=0/30=0%
+# Load=13/1024=1%, Rehash=0, Collisions=0/32=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
@@ -356,11 +349,10 @@ s not been updated.
 # # of strings in strcache: 1
 # # of strcache buffers: 1
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
-# strcache free: tot 
-make.exe: *** No rule to make target `all'.  Stop.
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-al = 4087 / max = 4087 / min = 4087 / avg = 4087
-
-# Finished Make data base on Tue Sep 20 09:48:24 2022
+# Finished Make data base on Fri Sep 23 10:43:34 2022
 
  
+make.exe: *** No rule to make target `all'.  Stop.
+
