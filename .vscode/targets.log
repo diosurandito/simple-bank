@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 
 # This program built for i386-pc-mingw32
 
-# Make data base, printed on Tue Nov 01 08:23:39 2022
+# Make data base, printed on Wed Nov 02 08:58:36 2022
 
 # Variables
 
@@ -78,7 +78,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_3740_XWBCLSQGHCOJSLKE
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11308_QPQXPWWGNWESJUMU
 # environment
 COMPUTERNAME = LAPTOP-M5J0K3VR
 # environment
@@ -184,7 +184,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 3740
+VSCODE_PID = 11308
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-M5J0K3VR
 # variable set hash-table stats:
@@ -206,7 +206,7 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-M5J0K3VR
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1617976353): 30 files, no impossibilities.
 # C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1657857064): 153 files, no impossibilities.
 # . (key d:/DEV/GOLANG/src/simple-bank, mtime 1667209253): 15 files, no impossibilities.
-# D:\DEV\GOLANG\bin (key D:/DEV/GOLANG/bin, mtime 1664769256): 16 files, no impossibilities.
+# D:\DEV\GOLANG\bin (key D:/DEV/GOLANG/bin, mtime 1667266680): 16 files, no impossibilities.
 # C:\Users\Dio\go\bin: could not be stat'd.
 # C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1648096939): 13 files, no impossibilities.
 # C:\TDM-GCC-64\bin (key C:/TDM-GCC-64/bin, mtime 1660097332): 61 files, no impossibilities.
@@ -218,7 +218,7 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-M5J0K3VR
 # C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
 # C:\Users\Dio\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Dio/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1665713246): 4 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1632484199): 8 files, no impossibilities.
-# C:\Windows\system32 (key C:/Windows/system32, mtime 1667261948): 2808 files, no impossibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1667351117): 2808 files, no impossibilities.
 # C:\Users\Dio\AppData\Roaming\npm (key C:/Users/Dio/AppData/Roaming/npm, mtime 1648604479): 6 files, no impossibilities.
 # C:\Users\Dio\AppData\Roaming\Composer\vendor\bin: could not be stat'd.
 # C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1660016319): 5 files, no impossibilities.
@@ -378,7 +378,7 @@ mock:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Nov 01 08:23:39 2022
+# Finished Make data base on Wed Nov 02 08:58:36 2022
 
  
 make.exe: *** No rule to make target `all'.  Stop.
